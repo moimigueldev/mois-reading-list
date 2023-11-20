@@ -34,5 +34,3 @@ Got questions or suggestions? Reach out to me at moimigueldev@gmail.com.
 Thank you for visiting my reading list!
 
 ---
-
-_Last Updated: [Date]_
